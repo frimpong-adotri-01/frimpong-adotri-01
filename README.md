@@ -31,5 +31,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=frimpong-adotri-01&theme=dark" alt="github stats" width="500"/>
 </p>
 
+<br/>
+
+***
+
+<br/>
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
