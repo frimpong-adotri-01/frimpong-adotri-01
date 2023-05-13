@@ -27,7 +27,9 @@
 
 **<h3 align="center">GitHub Stats:</h3>**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frimpong-adotri-01&theme=dark)](https://git.io/streak-stats)
+<p align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=frimpong-adotri-01&theme=dark" alt="github stats" width="500"/>
+</p>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
