@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Frimpong</h1>
 
-**<h3 align="center">An apprentice Data Scientist</h3>**
+**<h3 align="center">An apprentice Data Engineer</h3>**
 
 <br/>
 
-- 🔭 I’m currently working as **a Data Scientist**
+- 🔭 I’m currently working as **a Data Engineer**
 - 🎓 I'm a **Big Data & Machine Leearning student**
 
 <br/>
